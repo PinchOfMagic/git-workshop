@@ -1,0 +1,10 @@
+How to init a repository ?
+git init 
+How to skip staged files?
+git commit -am "third changes"
+How to ignore files?
+.gitignore
+How to delete commit?
+git log / git log --oneline
+git show commithash:pathtofile
+show -1 README.md
