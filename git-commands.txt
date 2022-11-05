@@ -8,3 +8,4 @@ How to delete commit?
 git log / git log --oneline
 git show commithash:pathtofile
 show -1 README.md
+git revert 2f5451f --no-edit
